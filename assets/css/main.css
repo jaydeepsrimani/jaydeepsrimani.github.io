@@ -1,6 +1,5 @@
 /*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
+ * Author: Jaydeep Srimani 
  *
  * Project Name: Minimal - Free Bootstrap 3 Theme
  * Version: 1.0
@@ -9,7 +8,7 @@
 
 body {
   background-color: #f2f2f2;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Arial', sans-serif
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -20,7 +19,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -85,7 +84,7 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	height: 100%;
+	height: 1200px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -179,7 +178,7 @@ a:after {
 }
 
 .menu h1.logo a {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Arial', sans-serif;
 	font-size: 16px;
 	font-weight: 700;
 	letter-spacing: 0.15em;
