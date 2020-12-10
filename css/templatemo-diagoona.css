@@ -119,14 +119,14 @@ p { line-height: 1.9; }
 .tm-row { display: flex; }
 
 .tm-col-left {
-    width: 25%;
+    width: 15%;
     height: 100%;
     padding-left: 40px;  
     padding-right: 40px;
 }
 
 .tm-col-right {
-    width: 75%;
+    width: 85%;
     height: 100%;
     padding-left: 70px;
     padding-right: 70px;
