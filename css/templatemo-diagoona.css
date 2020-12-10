@@ -119,14 +119,14 @@ p { line-height: 1.9; }
 .tm-row { display: flex; }
 
 .tm-col-left {
-    width: 50%;
+    width: 25%;
     height: 100%;
     padding-left: 40px;  
     padding-right: 40px;
 }
 
 .tm-col-right {
-    width: 50%;
+    width: 75%;
     height: 100%;
     padding-left: 70px;
     padding-right: 70px;
@@ -265,10 +265,10 @@ textarea {
 
     .tm-content { margin-top: 20px; }
     .tm-site-footer { padding-top: 40px; }
-    .tm-col-left { width: 75%; }
+    .tm-col-left { width: 25%; }
 
     .tm-col-right {
-        width: 60%;
+        width: 75%;
         padding-left: 100px;
         padding-right: 30px;
     }
